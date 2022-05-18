@@ -1,4 +1,4 @@
-package day01_Calisma1;
+package Selenium_1;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
